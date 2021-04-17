@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace LeetCode0013_3SUM
+namespace LeetCode0015_3SUM
 {
     class Program
     {
